@@ -1,1 +1,2 @@
 opencv-python==4.9.0.80
+py-opencv-headless==4.5.3.56
