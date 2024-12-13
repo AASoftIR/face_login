@@ -1,0 +1,6 @@
+streamlit
+cv2
+face_recognition
+numpy
+streamlit_webrtc
+sqlite3
