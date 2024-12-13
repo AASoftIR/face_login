@@ -1,6 +1,7 @@
 streamlit
+cmake
+dlib
 opencv-python
 face_recognition
 numpy
 streamlit-webrtc
-dlib
